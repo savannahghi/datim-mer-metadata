@@ -3739,7 +3739,7 @@
     </dataElement>
   </dataElements>
   <dataElementGroupSets>
-    <dataElementGroupSet id="LxhLO68FcXm" name="Technical Area">
+    <dataElementGroupSet id="LxhLO68FcXm" name="Technical Area" shortName="Technical Area">
       <description>Technical Area</description>
       <publicAccess>r-------</publicAccess>
       <compulsory>false</compulsory>
@@ -3809,7 +3809,7 @@
         <dataElementGroup id="ELZsYsR89rn"/>
       </dataElementGroups>
     </dataElementGroupSet>
-    <dataElementGroupSet id="lD2x0c8kywj" name="Numerator / Denominator">
+    <dataElementGroupSet id="lD2x0c8kywj" name="Numerator / Denominator" shortName="Numerator / Denominator">
       <description>Numerator / Denominator</description>
       <publicAccess>r-------</publicAccess>
       <compulsory>false</compulsory>
@@ -3819,7 +3819,7 @@
         <dataElementGroup id="QpNj0nSuEhD"/>
       </dataElementGroups>
     </dataElementGroupSet>
-    <dataElementGroupSet id="TWXpUVE2MqL" name="Support Type">
+    <dataElementGroupSet id="TWXpUVE2MqL" name="Support Type" shortName="Support Type">
       <description>Support Type</description>
       <publicAccess>r-------</publicAccess>
       <compulsory>false</compulsory>
@@ -3835,7 +3835,7 @@
         <dataElementGroup id="aBZapfNWlIU"/>
       </dataElementGroups>
     </dataElementGroupSet>
-    <dataElementGroupSet id="ra9ZqrTtSQn" name="HTS Modality (USE ONLY for FY20 Results/FY21 Targets)">
+    <dataElementGroupSet id="ra9ZqrTtSQn" name="HTS Modality (USE ONLY for FY20 Results/FY21 Targets)" shortName="HTS Modality (for FY20 Results/FY21 Targets only)">
       <description>HTS Modality (USE ONLY for FY20 Results/FY21 Targets)</description>
       <publicAccess>r-------</publicAccess>
       <compulsory>false</compulsory>
