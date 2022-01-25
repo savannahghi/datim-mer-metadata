@@ -71,7 +71,7 @@
     </organisationUnitGroup>
   </organisationUnitGroups>
   <organisationUnitGroupSets>
-    <organisationUnitGroupSet id="mINJi7rR1a6" name="Type of organisational unit">
+    <organisationUnitGroupSet id="mINJi7rR1a6" name="Type of organisational unit" shortName="Type of organisational unit">
       <description>Type of organisational unit</description>
       <compulsory>true</compulsory>
       <includeSubhierarchyInAnalytics>false</includeSubhierarchyInAnalytics>

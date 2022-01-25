@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<metadata>
+      
+  <system>
+            
+    <id>triage.testing.datim.org</id>
+            
+    <rev>e4684bf</rev>
+            
+    <version>2.36.5-SNAPSHOT</version>
+            
+    <date>2022-01-05T19:08:27.845</date>
+        
+  </system>
+      
+  <categoryCombos>
+            
+    <categoryCombo id="vKBWjLzTDZJ" name="Age (10-17-uk, 2) and Sex (Female)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="YWlxK78PXQ9"/>
+                        
+        <category id="z5yJfr6O3w8"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="Auz9G1lgPSX" name="Age (10-50+-uk, 10) and Sex">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="HUOw5UkDg4V"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="AoWbpQLbBBp" name="Age (&lt;10-50+-uk, 10) and Sex (Female)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="oJXfCG5jnog"/>
+                        
+        <category id="z5yJfr6O3w8"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="rFarVcEuKlX" name="Age (&lt;10-50+-uk, 10), New Existing ART, Sex (Female) and HIV Status (Positive)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="oJXfCG5jnog"/>
+                        
+        <category id="FK63UgOIH2K"/>
+                        
+        <category id="z5yJfr6O3w8"/>
+                        
+        <category id="bUVkiB6QLYZ"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="CwdpUfwQJ98" name="Age (&lt;10-50+-uk, 10), Sex (Female) and Known Positive / New Pos or Neg / Recent Neg">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="oJXfCG5jnog"/>
+                        
+        <category id="z5yJfr6O3w8"/>
+                        
+        <category id="dzKJC5Rtwcn"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="YsrFQ6Ge42q" name="Age (&lt;1,1-4-uk, 2), Sex and Result">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="XUBQZatxY5b"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                        
+        <category id="FokGv0LCTYj"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="KH515hOcUS8" name="Age (&lt;1-20-uk, 6), Sex and Program Status">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="R8ay5IoNW1S"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                        
+        <category id="McLoJJs4bki"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="KD7et9pZCmw" name="Age (&lt;1-50+-uk, 12) and Sex">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="hDomCfJSxiQ"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="F00w1bHIVma" name="Age (&lt;1-50+-uk, 12), HIV Status (Inc Unknown) and Sex (Male)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="hDomCfJSxiQ"/>
+                        
+        <category id="kZfd98pN3ad"/>
+                        
+        <category id="TBpeHECy96a"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="Ynr2qtl6WB9" name="Age (&lt;1-50+-uk, 12), Sex and Known Positive / New Pos or Neg">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="hDomCfJSxiQ"/>
+                        
+        <category id="L567Pvhn2WC"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="qKePLJSRLgS" name="Age (&lt;1-50+-uk, 12), Sex and Test Results">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="hDomCfJSxiQ"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                        
+        <category id="FokGv0LCTYj"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="rcyH8qsC2AZ" name="Age (&lt;1-50+-uk, 12), Sex (Female) and Test Results">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="hDomCfJSxiQ"/>
+                        
+        <category id="z5yJfr6O3w8"/>
+                        
+        <category id="FokGv0LCTYj"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="vyCxt8An698" name="Age (&lt;1-50+-uk, 12), Sex, New Existing ART and HIV Status (Positive)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="hDomCfJSxiQ"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                        
+        <category id="FK63UgOIH2K"/>
+                        
+        <category id="bUVkiB6QLYZ"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="bL9OWNHMVKy" name="Age (&lt;1-50+-uk, 12), Sex, Test Indication and HIV Status (Positive)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="hDomCfJSxiQ"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                        
+        <category id="XAbPTrBC8Dg"/>
+                        
+        <category id="bUVkiB6QLYZ"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="xyPI9PwXxY9" name="Age (&lt;15,15+), Sex, New Existing ART and HIV Status (Positive)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="rw5ANWfDSuc"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                        
+        <category id="FK63UgOIH2K"/>
+                        
+        <category id="bUVkiB6QLYZ"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="isNiYirMRYt" name="Age (&lt;15,15+-uk, 2), Sex, TB Screen Result, New Existing ART and HIV Status (Positive)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="fPrE6fiFb5f"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                        
+        <category id="lmf1Sn72E2b"/>
+                        
+        <category id="FK63UgOIH2K"/>
+                        
+        <category id="bUVkiB6QLYZ"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="USniQRTQRnY" name="Age (15-50+-uk, 8) and Sex">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="d4317wJ77uc"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="E1evUFrsCog" name="Age (15-50+-uk, 8), Sex (Female) and HIV Status (Positive)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="d4317wJ77uc"/>
+                        
+        <category id="z5yJfr6O3w8"/>
+                        
+        <category id="bUVkiB6QLYZ"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="HZtrVMo9031" name="Age (&lt;1-65+-uk-mne, 16), Sex and HIV Status (Positive)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>true</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="hDomCfJSxiQ"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                        
+        <category id="bUVkiB6QLYZ"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="H0W67wrICM4" name="Age (18+), Sex and Program Status">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="lfTeZdw4p8a"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                        
+        <category id="McLoJJs4bki"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="pwqXbZ5FEfY" name="Age (5-14-uk,2) and Sex">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="Yd9NkTBqDpB"/>
+                        
+        <category id="SEOZOio7f7o"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="bjDvmb4bfuf" name="default">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="GLevLNI9wkl"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="hVswD64LbtW" name="Infant Age (2,2-12)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="tX6vva5HMZ6"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="dxZWNGz93Js" name="Key Populations v3">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="VCCs1f22cOR"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="JQvyWrTQJlo" name="Key Populations v3 and HIV Status (Positive)">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="VCCs1f22cOR"/>
+                        
+        <category id="bUVkiB6QLYZ"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="DVHGosLpTY9" name="Key Populations v3 and Test Results">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="VCCs1f22cOR"/>
+                        
+        <category id="FokGv0LCTYj"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo id="R1rzmp9ROky" name="Sex">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="SEOZOio7f7o"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+            
+    <categoryCombo code="Violence Service Type v2" id="c7bzLBhaiPQ" name="Violence Service Type v2">
+                  
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+                  
+      <skipTotal>false</skipTotal>
+                  
+            
+      <categories>
+                        
+        <category id="GPZcq6IewcP"/>
+                    
+      </categories>
+                  
+      <attributeValues>
+                        
+        <attributeValue>
+                              
+          <value>SGACPublicAffairs@state.gov</value>
+                              
+          <attribute id="mOITVltKxDP"/>
+                          
+        </attributeValue>
+                        
+        <attributeValue>
+                              
+          <value>PEPFAR</value>
+                              
+          <attribute id="H5eprkl0cdi"/>
+                          
+        </attributeValue>
+                    
+      </attributeValues>
+              
+    </categoryCombo>
+        
+  </categoryCombos>
+  
+</metadata>
+
